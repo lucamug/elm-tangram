@@ -4,6 +4,8 @@
 
 [Post](https://medium.com/@l.mugnaini/undo-and-redo-using-browsers-history-1f1f963bf722)
 
+![Screencast](http://elm-tangram.surge.sh/images/elm-tangram-animation.gif)
+
 Tangram application written in Elm based on https://github.com/fredcy/elm-tangram-svg
 
 $ elm-live src/elm/Main.elm --output=docs/main.js --debug --pushstate --dir=docs
