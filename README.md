@@ -6,7 +6,7 @@
 
 
 <a href="http://elm-tangram.surge.sh/">
-  <img src="https://elm-tangram.surge.sh/images/elm-tangram-animation.gif" alt="screencast">
+  <img src="elm-tangram-animation.gif" alt="screencast">
 </a>
 
 Tangram application written in Elm based on https://github.com/fredcy/elm-tangram-svg
